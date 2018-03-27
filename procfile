@@ -1,0 +1,1 @@
+web: export DATABASE_URL=postgres://cppiciap:zCWKnw_mU7WVnU5ht393ChgABCHyFukg@baasu.db.elephantsql.com:5432/cppiciap && npm run start:dev
