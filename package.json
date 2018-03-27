@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./bin/www",
+    "start": "export JAWSDB_URL=postgres://cppiciap:zCWKnw_mU7WVnU5ht393ChgABCHyFukg@baasu.db.elephantsql.com:5432/cppiciap && nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
