@@ -1,6 +1,6 @@
 {
   "development": {
-    "use_env_variable": "JAWSDB_URL"
+    "use_env_variable": "postgres://cppiciap:zCWKnw_mU7WVnU5ht393ChgABCHyFukg@baasu.db.elephantsql.com:5432/cppiciap"
   },
   "test": {
     "username": "root",
